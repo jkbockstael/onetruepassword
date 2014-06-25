@@ -11,9 +11,14 @@ are looking over your shoulder. At least it's safer than Post-It notes.
 
 ## Installation
 
-Copy or source the onetruepassword.sh file in your .bashrc file.
+Run this command in your terminal :
+
+`curl https://raw.github.com/jkbockstael/onetruepassword/master/install.sh | sh`
+
+Or copy or source the onetruepassword.sh file in your .bashrc file.
 
 ## Usage
+
 ```
 # open the password storage in your editor
 # you will be prompted for a password upon exiting the editor
