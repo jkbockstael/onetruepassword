@@ -8,7 +8,7 @@
 # 2014 Jean-Karim Bockstael <jkb@jkbockstael.be>
 
 # Encrypted password storage file
-ONETRUEPASSWORD_STORE=~/.onetruepassword_store.enc
+ONETRUEPASSWORD_STORE=~/.otp/onetruepassword_store.enc
 
 # Encrypt function, can be used either as a filter or a command
 # $ cat cleartext_file | encrypt > encrypted_file
